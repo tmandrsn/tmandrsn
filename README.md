@@ -4,3 +4,8 @@
 
 ## Projects
 * https://github.com/tmandrsn/FinalCapstone
+* https://github.com/tmandrsn/Image-Processing
+* https://github.com/tmandrsn/bookstore-database
+* https://github.com/tmandrsn/Penguin-Data-Visualisation
+* https://github.com/tmandrsn/exploratory-data-analysis
+* https://github.com/tmandrsn/task-manager
