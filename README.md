@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://github.com/tmandrsn/Bookstore-Database
+
+https://github.com/tmandrsn/Data-Visualisation
+
+https://github.com/tmandrsn/Data-Analysis
+
+https://github.com/tmandrsn/Supervised-Machine-Learning
+
+https://github.com/tmandrsn/Unsupervised-Machine-Learning
