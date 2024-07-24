@@ -1,4 +1,4 @@
-## Hi there 👋
+## Data Science Bootcamp Coding Projects
 
 <!--
 **tmandrsn/tmandrsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
